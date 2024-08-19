@@ -9,14 +9,11 @@ Genetical UI brings you a clean, minimalistic UI dashboard to run and visualize 
 * Keeps the code simple and reusable
 * Provides feature to extend the genetic algorithms
 
+![image](https://github.com/user-attachments/assets/8b062d15-9193-4d1e-a164-12848579fb48)
+
 ```
 
-## Gify
-![image](https://github.com/user-attachments/assets/c90a7be4-5070-43f4-b2df-2ba2d6e95159)
 
-
-## Modal:
-A modal is a call to action pop up which appears usually on top of contents of the screen and freezes the contents until dismissed.
 
 
 
