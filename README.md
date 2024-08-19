@@ -12,8 +12,7 @@ Genetical UI brings you a clean, minimalistic UI dashboard to run and visualize 
 ```
 
 ## Gify
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/84897066/155017833-cb19d757-759f-4833-85e4-05d49507b7ac.gif)
-
+![image](https://github.com/user-attachments/assets/c90a7be4-5070-43f4-b2df-2ba2d6e95159)
 
 
 ## Modal:
